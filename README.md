@@ -50,6 +50,7 @@ The *ClockProject App* is an Android application designed to integrate seamlessl
 ## Additional Details
 - The app implements robust validation for user input during registration.
 - The quote fetching service ensures efficient and timely retrieval of data using multi-threading.
+- We addead a zip with the project in case it doesn't work
 
 ---
 
