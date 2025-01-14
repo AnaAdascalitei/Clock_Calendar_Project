@@ -54,6 +54,6 @@ The *ClockProject App* is an Android application designed to integrate seamlessl
 ---
 
 ## GitHub Repository
-[ClockProject GitHub Repository]([https://github.com/example/ClockProject](https://github.com/AnaAdascalitei/Clock_Calendar_Project/tree/main))
+[ClockProject GitHub Repository]((https://github.com/AnaAdascalitei/Clock_Calendar_Project/tree/main))
 
 ---
